@@ -198,7 +198,7 @@ export default function CommentsSection({ currentUser, comments }) {
             className="text-[#3e52a3] ml-1"
             href="https://github.com/nicefellow1234"
           >
-            Umair Shah
+            Dusan Simic
           </a>
           .
         </div>
